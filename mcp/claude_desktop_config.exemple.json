@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "connaissances-recrutement": {
+      "command": "C:/chemin/vers/mcp-connaissances-recrutement/.venv/Scripts/python.exe",
+      "args": ["C:/chemin/vers/mcp-connaissances-recrutement/serveur_mcp.py"]
+    }
+  }
+}

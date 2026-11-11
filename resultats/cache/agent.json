@@ -1,0 +1,1844 @@
+{
+"008a60bcd712130389773469738f7bf8ea3223a4": {
+"content": "Le cabinet doit répondre à un candidat qui demande à consulter son dossier dans un délai de **30 jours**. De plus, si un candidat retire son consentement, son dossier doit être détruit dans les **10 jours ouvrables**.",
+"tool_calls": []
+},
+"01647bb9419f4724b0a64d5267c43b14a07ebb99": {
+"content": "Bonjour. Concernant Assurances Riveraine, la garantie de remplacement est de **120 jours** en vertu de l'Entente de volume 2026. Pour ce qui est de la short-list, selon mes notes, vous avez modifié votre règle pour limiter les short-lists à **3 candidats** au maximum.",
+"tool_calls": []
+},
+"01f23971869982a0c12d45f548f5dda8ee0e1382": {
+"content": "Pourriez-vous me préciser de quelle conférence il s'agit ? J'ai besoin de plus de détails pour pouvoir vérifier l'information pour vous.",
+"tool_calls": []
+},
+"06dc4c0dcbee67eb8b1ae435e683fa8be2ffa11c": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "clients exigeant vérification des antécédents judiciaires",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"088e02ce063f8456de278bf3fcd4cc1f8a07f58d": {
+"content": "En consultant les règles internes, il est mentionné que **Assurances Riveraine** exige une vérification des antécédents judiciaires pour tous les postes. De plus, la section sur la Veille Cybersécurité rappelle que ce type de vérification est requis pour les mandats de ce secteur.",
+"tool_calls": []
+},
+"08f7100d0b661a0e133779bc8460ab56cee00aff": {
+"content": "Bonjour, j'ai trouvé un candidat qui pourrait correspondre à votre recherche. Il s'agit de **Carlos Mendez** (c035), qui possède 6 ans d'expérience en cybersécurité et dont le profil mentionne la \"détection, la réponse aux incidents\". Je vous recommande de consulter son passage pour plus de détails.",
+"tool_calls": []
+},
+"091a8e57a45b42d9f1852d340d758adde281151f": {
+"content": "Le dossier ne contient pas d'information explicite sur la raison du refus du candidat c042 par Riveraine. Cependant, je peux vous informer que le 14 avril 2026, vous avez été informée de ce refus par Riveraine, et vous avez exigé que l'expérience en données de réclamations soit vérifiée pour les prochains candidats.",
+"tool_calls": []
+},
+"09cb2902b42fc375ef8643d050fc725548d1a955": {
+"content": "Les honoraires standard du cabinet sont de **20 % du salaire annuel de base** du candidat embauché, et ces frais sont facturés à l'embauche. De plus, le cabinet offre une garantie de remplacement si la personne quitte ou est congédiée dans les **90 jours**.",
+"tool_calls": []
+},
+"0ae9cc2e80eec9432098e0fe3c5e76bce41d4529": {
+"content": "Je trouve un candidat qui correspond à votre recherche : **Caroline Bélanger** (c015), qui est une spécialiste DevOps de **Lévis** avec **7 ans** d'expérience. Cependant, aucune certification Red Hat n'est mentionnée dans les résultats affichés.",
+"tool_calls": []
+},
+"0b1c1443cdd0482af1fa55b292b7c6c68ded0dd5": {
+"content": "Bonjour, j'ai trouvé un candidat qui pourrait correspondre à votre recherche : **Caroline Bélanger**, qui est une spécialiste DevOps de **Lévis** avec **7 ans** d'expérience. Cependant, je n'ai pas trouvé d'information spécifique mentionnant une certification Red Hat pour ce candidat dans les données disponibles.",
+"tool_calls": []
+},
+"0b96d6689fdbb4ed0cc83366293619c196ff9cd9": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "conservation des dossiers de candidats non retenus"
+}
+}
+}
+]
+},
+"0c02a2ffb5d42ab1892adf4d87efc0e13aed4d73": {
+"content": "Je trouve deux candidats potentiels qui pourraient correspondre à votre recherche : **Carlos Mendez** (c035) avec 6 ans d'expérience et **Mathieu Fortin** (c011) avec 3 ans d'expérience. Le profil de Carlos Mendez mentionne la \"réponse aux incidents\", mais aucune certification GIAC GCIH n'est explicitement visible dans les extraits fournis.",
+"tool_calls": []
+},
+"0cd4abe529f55a0b39ba4a72e4b10ac5c52e14df": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "indicateurs pour synthèse mensuelle",
+"utilisateur": "sophie"
+}
+}
+}
+]
+},
+"0ebe85c619a47ec7cf6541aa3ac935f6fddbbe13": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "exigence pratique Manufacturier Boréal"
+}
+}
+}
+]
+},
+"0fda16cbfe056a64c39c89b244638acf0f677b88": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "spécialiste DevOps Lévis Red Hat"
+}
+}
+}
+]
+},
+"1240a1963a99aafcdcba4c9e87ce4492e9ea666d": {
+"content": "L'entrevue finale chez Manufacturier Boréal doit se dérouler sur place, à l'usine principale, et aura lieu avec le directeur de la production.",
+"tool_calls": []
+},
+"151f44384aff4c63b999a7b6de1d9de8596af04a": {
+"content": "La garantie de remplacement applicable à Assurances Riveraine est de **120 jours** (selon l'Entente de volume 2026). Concernant la taille de la *short-list*, vos préférences indiquent que vous avez modifié la règle pour limiter les présentations à **3 candidats** au maximum.",
+"tool_calls": []
+},
+"1591b4e6a4af673901459f60619885c5ce447867": {
+"content": "Bonjour, j'ai trouvé deux candidats qui pourraient correspondre à votre recherche d'analyste en réponse aux incidents avec une certification GIAC GCIH. Il s'agit de **Carlos Mendez** (c035), qui a 6 ans d'expérience et est spécialisé en réponse aux incidents, et **Wei Chen** (c019), qui a 8 ans d'expérience et possède une expertise en réponse aux incidents.",
+"tool_calls": []
+},
+"1ac5b5d91b593fdbc27fa289fb847d4777b2293a": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "données pour combattre les incendies en forêt"
+}
+}
+}
+]
+},
+"1b4fca28c68abeacdccb5ae347602dcd2feddba0": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "Manufacturier Boréal lieu entrevue finale"
+}
+}
+}
+]
+},
+"1b628f9dcfe766024d0c7507bc5d0abb274d1233": {
+"content": "Selon nos échanges précédents, vous aviez initialement un objectif de délai moyen de placement de 30 jours, mais vous avez resserré cet objectif à **25 jours** le 4 juin 2026.",
+"tool_calls": []
+},
+"1be02489db98822fce0a182fe36cb9cf66cd2841": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "Certified Kubernetes Administrator"
+}
+}
+}
+]
+},
+"1e5bcbab18a2503b3b4be64c0fb2ed43bc246b82": {
+"content": "Le cabinet doit répondre à un candidat qui demande à consulter son dossier dans un délai de **30 jours**. De plus, si un candidat retire son consentement, son dossier doit être détruit dans les **10 jours ouvrables**.",
+"tool_calls": []
+},
+"1e697f49a265b1128f335e2eea98cf16e8c5a709": {
+"content": "Le seuil de présentation d'un candidat à un client est de **70 points** sur la grille d'évaluation des candidats. De plus, il y a une note éliminatoire : un candidat doit obtenir au moins **30 points** sur les 50 points de compétence technique.",
+"tool_calls": []
+},
+"1eac75495c899417a986464ee60f809810695475": {
+"content": "Le dossier d'un candidat non retenu est conservé pendant **12 mois** après la fin du mandat, à condition que le candidat ait accepté cette durée dans son formulaire de consentement révisé par Marc-André Pelletier. Si le candidat refuse cette durée, la règle de conservation est de **6 mois**.",
+"tool_calls": []
+},
+"1fb7e79b58f0a0b444b32096fa8fd94733c7bb29": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "IA écarter candidats sous seuil grille",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"227f295ddb2a7d6e6a04faf676e19d0c0adb4c8e": {
+"content": "Je trouve un candidat qui correspond à votre recherche : **Caroline Bélanger** (c015), qui est spécialisée en DevOps et fiabilité des plateformes et réside à **Lévis** avec **7 ans** d'expérience. Cependant, aucune certification Red Hat n'est mentionnée dans les résultats affichés.",
+"tool_calls": []
+},
+"2340a8f6b79e780258f4b7534aabd7590eb2f20b": {
+"content": "Votre objectif de délai moyen de placement est de **25 jours**, selon une note du 4 juin 2026. Concernant la conservation des dossiers, un candidat non retenu est conservé pendant **12 mois** s'il donne son consentement, ou **6 mois** s'il refuse.",
+"tool_calls": []
+},
+"2360d2dbd2497df4010013ff8c9e3f6d9e5e8b90": {
+"content": "Bonjour. J'ai trouvé quatre candidats qui pourraient correspondre à votre recherche de données pour combattre les incendies en forêt. Il s'agit de **Patrick Caron** (16 ans, Montréal), **Camille Boutin** (25 ans, Montréal), **Jean Gagnon** (8 ans, Québec) et **Aïcha Diallo** (9 ans, Montréal). Je vous recommande de regarder les profils de Patrick Caron et Aïcha Diallo, car leurs expériences mentionnent des projets impliquant des données géospatiales ou des sources de données hétérogènes, ce qui pourrait être pertinent pour ce type de problématique.",
+"tool_calls": []
+},
+"238553a74c338f347c2b23ce64f72cb8d2c04c31": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "churn prediction for a fitness club"
+}
+}
+}
+]
+},
+"23a24c0c8cb50eff6f82e963bc43d0758809d8b4": {
+"content": "Bonjour ! J'ai trouvé un candidat qui pourrait correspondre à votre recherche de profil CKS en sécurité Kubernetes. Il s'agit de **Olivier Dubois** (c023), qui possède la certification **Certified Kubernetes Security Specialist (CKS)**.\n\nConcernant les références, la politique de recrutement exige de vérifier **deux références au minimum** avant de présenter un candidat à un client. De plus, au moins une de ces références doit provenir d'un supérieur immédiat des trois dernières années.",
+"tool_calls": []
+},
+"24eb8506bbccc4603d77e60a6e440bb674064a2d": {
+"content": "Bonjour, j'ai trouvé deux candidats qui semblent très pertinents pour votre besoin en vision par ordinateur pour l'identification de poissons. Fatima El Amrani (c013) a un projet marqué sur un \"Système de Surveillance Environnementale Aquatique\" où elle a utilisé des CNN pour identifier et catégoriser des espèces de poissons. De plus, Lucie Hamel (c045) possède une expertise solide en Vision par Ordinateur (YOLO, CNN) et est basée à Montréal.",
+"tool_calls": []
+},
+"259fbe4cc38b7c681844692dd7b7d81f1cde3813": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "nombre de candidats dans les short-lists",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"25e76973fb87680314de404ba88dad5105044a6e": {
+"content": "Pour Manufacturier Boréal, vous devez vérifier que le candidat maîtrise le français, car c'est une exigence obligatoire, et que le candidat possède une voiture, car l'usine n'est pas desservie par les transports en commun. Le seuil de la grille pour présenter un candidat est de 70 points.",
+"tool_calls": []
+},
+"26521ed48f7ce999ca53935773eaa0dbc6268b76": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "spécialiste DevOps de Lévis certifiée Red Hat",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"2852fb4d7588b7e5ae0005202c9e2b0e627d4455": {
+"content": "Bonjour ! J'ai effectué une recherche avec les termes \"churn prediction for a fitness club\" dans notre banque de CV.\n\nLes candidats qui pourraient être pertinents sont **Mohamed Benali** (c005) et **Frédéric Plamondon** (c037). Mohamed Benali a de l'expérience avec des systèmes d'alerte prédictive basés sur des données comportementales, ce qui est proche de la prédiction de désabonnement. Frédéric Plamondon a une expérience en IA dans un milieu de la santé, ce qui démontre une capacité à modéliser des comportements complexes.\n\nSouhaitez-vous que j'approfondisse le profil de l'un de ces candidats ou que je lance une autre recherche ?",
+"tool_calls": []
+},
+"2b89e44a5a21d4faee6ed7d00d58d450b442bee6": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "analyste en réponse aux incidents certifié GIAC GCIH",
+"utilisateur": "karim"
+}
+}
+}
+]
+},
+"2d3cdaf24421bb4e908113f35f9579db4b637475": {
+"content": "Je ne dispose pas d'informations concernant la date d'envoi de vos rapports d'avancement. Pourriez-vous me donner plus de contexte ou me dire si vous souhaitez que je consulte les règles internes du cabinet à ce sujet ?",
+"tool_calls": []
+},
+"2edebe7a42723f2e5cc7d3d02688a0badb8de2c2": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "lieu entrevue finale Manufacturier Boréal",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"3142c2ab65937a6a813594afc2950aaefa628093": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "churn prediction for a fitness club"
+}
+}
+}
+]
+},
+"3191fac0d2d03dcebaedfdbf2470be2b8b17f633": {
+"content": "Je n'ai trouvé aucune règle spécifique concernant le format des résumés de candidats dans le wiki interne. Pourriez-vous me donner plus de détails sur le type de résumé que vous souhaitez créer, ou si vous faites référence à un client spécifique ?",
+"tool_calls": []
+},
+"31f2b7856dd5e4e0118550d7e4f1e2fdeded145f": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "application suivi autobus scolaire"
+}
+}
+}
+]
+},
+"32a6703e7021919cffd5302fdd5f8259c14c2343": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "clients exigeant vérification antécédents judiciaires"
+}
+}
+}
+]
+},
+"33a296eed9b1db91f3aafb8af3b41620a205e223": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "honoraires standard du cabinet",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"3495e846601ef03f6254f2e631c48d482b910315": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "churn prediction for a fitness club",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"367d22859d9f4f42fc9a8830ec42aaaf33696716": {
+"content": "Le candidat qui possède la certification Certified Kubernetes Administrator (CKA) est **François Lavoie** (c007), qui a une expérience de 9 ans dans le domaine DevOps et fiabilité des plateformes. Il est également pertinent de noter que **Olivier Dubois** (c023) possède la certification Certified Kubernetes Security Specialist (CKS).",
+"tool_calls": []
+},
+"376f65816ac46e7295e2cbc78935b701c2e76b0d": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "garantie de remplacement Assurances Riveraine"
+}
+}
+}
+]
+},
+"3830d452bd58c940e2420775f7b98e055502925c": {
+"content": "En tant qu'assistant de Julie Ouellet, je peux vous informer que l'utilisation d'une IA pour écarter un candidat n'est pas autorisée. Selon les règles internes, un outil d'IA ne peut pas écarter un candidat ni attribuer une note ; toute décision doit être prise par un recruteur. De plus, la grille d'évaluation fixe un seuil de présentation à 70 points, et une note éliminatoire est fixée à moins de 30 points sur 50 en compétence technique.",
+"tool_calls": []
+},
+"38aae2852325a37bd704be6e577780bc603b995c": {
+"content": "Selon les règles officielles, le client **Assurances Riveraine** exige une vérification des antécédents judiciaires pour tous les postes.",
+"tool_calls": []
+},
+"38f743e64b0c3988bc9e887e831dd622a577c2e1": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "seuil de points pour présenter un candidat à un client",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"39ab4edeb3972a58bc2d061fd85c1fb8f50a6393": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "rappeler_preferences",
+"arguments": {
+"sujet": "short-lists",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"3a083a172dcbb441a7df1b4306da018000b8fb95": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "format des résumés de candidats",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"3a38f3f93c4753e3776969f4a58ca04c8a67bbd1": {
+"content": "Je vais utiliser mes outils pour chercher l'information concernant la présentation de votre conférence. Cependant, les outils disponibles sont spécialisés dans la recherche de candidats, la consultation des règles internes du cabinet, ou la récupération des préférences des recruteurs.\n\nJe ne dispose pas d'un outil général de calendrier ou de gestion d'événements pour trouver où et quand vous présentez votre conférence. Pourriez-vous me dire si cette conférence est liée à un client, à un processus de recrutement, ou si vous avez un nom de projet spécifique ?",
+"tool_calls": []
+},
+"3b2b71bb7f41c41b04fdd8ceb1d35eb2a81d71d9": {
+"content": "L'entrevue finale chez Manufacturier Boréal doit se dérouler sur place, à l'usine principale, avec le directeur de la production.",
+"tool_calls": []
+},
+"3b6c1e0b88edcd2210b2e9e0e061943294a2a598": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "développeur certifié AZ-204"
+}
+}
+}
+]
+},
+"3deabd664c86c76cb27915f660134e690191f74d": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "exigence pratique et seuil de grille pour Manufacturier Boréal",
+"utilisateur": "karim"
+}
+}
+}
+]
+},
+"3e4578fc7fdc8202fd6a2446ce0a7061a9a5af09": {
+"content": "Pour savoir quel jour vous devez envoyer vos rapports d'avancement, je dois consulter les règles officielles du cabinet. Pourriez-vous me confirmer si vous souhaitez que je vérifie les règles concernant les rapports d'avancement ?",
+"tool_calls": []
+},
+"3e76d9d21137c5ce92371c4573d75be27b96d74e": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "date d'envoi des rapports d'avancement",
+"utilisateur": "karim"
+}
+}
+}
+]
+},
+"3f0dc5a3e08773d030eda935e7c5a115b389ded0": {
+"content": "Je n'ai trouvé aucune information spécifique concernant la date d'envoi de vos rapports d'avancement dans les règles internes du cabinet. Les règles que j'ai consultées concernent principalement la minimisation des données et le consentement.",
+"tool_calls": []
+},
+"3f6a66c7bf2c4c4e850871bcc5bcd3a31a731d80": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "délai réponse candidat consultation dossier"
+}
+}
+}
+]
+},
+"4276e7306cbdebb6f86fd38a498ac00fca9a1794": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "durée de conservation dossier candidat non retenu",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"428573dc9abc78f08a44358b84e9f9c6b79c1fb7": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "utilisation de l'IA pour écarter les candidats sous le seuil de la grille"
+}
+}
+}
+]
+},
+"442d17597341e3dc28ea062a72ab89bf688f3760": {
+"content": "Je ne trouve pas de correspondance exacte avec les critères \"développeuse web junior de Drummondville qui a fait un site pour une cabane à sucre\" dans la banque de CV. Cependant, le candidat **Émilie Simard** (identifiant **c020**) est une développeuse web de **Drummondville** avec **2 ans** d'expérience.",
+"tool_calls": []
+},
+"4481effedc55ea1ee6b1af691a4284eb8ad0b822": {
+"content": "Selon les informations trouvées, Manufacturier Boréal exige que l'entrevue finale ait lieu sur place, à l'usine principale, avec le directeur de la production. De plus, la maîtrise du français est obligatoire, et l'anglais n'est pas exigé pour les candidats.",
+"tool_calls": []
+},
+"45c0b87242452d2557cb880c31a8a286554494ff": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "rappeler_preferences",
+"arguments": {
+"sujet": "placement chez Boréal en mai",
+"utilisateur": "karim"
+}
+}
+}
+]
+},
+"460fdcc8da4ba81d4600109b81bdce10fbb79c9d": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "candidat placé chez Boréal en mai",
+"utilisateur": "karim"
+}
+}
+}
+]
+},
+"46225475983f750bdfdfabfb1e8e8064a164472b": {
+"content": "Bonjour, j'ai trouvé un candidat qui possède la certification CKS : **Olivier Dubois** (c023), qui a 14 ans d'expérience et est basé à Boucherville. Concernant les références, vous devez vérifier **deux références** au minimum avant de présenter un candidat.",
+"tool_calls": []
+},
+"4764c2dfcf88502eb5647edd5a83b0f4fd2b43dd": {
+"content": "Bonjour. Après avoir consulté les règles internes, je n'ai trouvé aucune information spécifique expliquant pourquoi Riveraine a refusé le candidat c042. Les documents disponibles détaillent les exigences de Riveraine, la politique de recrutement générale, et les étapes à suivre.",
+"tool_calls": []
+},
+"47c0ebd07c8813b9fad1f8b7112fa4cc559a8c2a": {
+"content": "Le Réseau Cliniques Santé-Nord accepte un télétravail limité à **2 jours par semaine**. Ces informations proviennent des règles et clients concernant ce réseau de 12 cliniques médicales privées.",
+"tool_calls": []
+},
+"4aaa9ac3a5d8601bcb3da99000c41d0808e34cc0": {
+"content": "Bonjour, selon les informations disponibles, c'est **Assurances Riveraine** qui exige une vérification des antécédents judiciaires pour tous les postes.",
+"tool_calls": []
+},
+"4b3652b22dd8c543491f3f7cc966eac672fb9451": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "lieu entrevue finale Manufacturier Boréal"
+}
+}
+}
+]
+},
+"4c10689478e174be4e1c878cf4bc439445452235": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "utilisation de l'IA pour écarter les candidats sous le seuil de la grille"
+}
+}
+}
+]
+},
+"4c1dff1465683b8ca0f8a6324f2d32d2a9ad9434": {
+"content": "Le dossier d'un candidat non retenu est conservé pendant **12 mois** après la fin du mandat, à condition que le candidat ait donné son consentement pour cette durée. Si le candidat refuse cette durée, la conservation est limitée à **6 mois**.",
+"tool_calls": []
+},
+"4c2354a6d6ab0ffa665f1047583a01453aa69ba9": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "note de compétence technique éliminatoire"
+}
+}
+}
+]
+},
+"5164ef0224b64f99127730795c04bfcc72ac3a16": {
+"content": "La garantie de remplacement applicable à Assurances Riveraine est de **120 jours** en vertu de l'Entente de volume 2026. Concernant la short-list, vous devez limiter le nombre de candidats à **3** au maximum, selon votre préférence mise à jour du 4 mai 2026.",
+"tool_calls": []
+},
+"51a0ee7bd4eb50e62afcda5e04ae9292be144c7d": {
+"content": "L'objectif de délai moyen de placement pour Sophie a été resserré à **25 jours** le 4 juin 2026. Auparavant, cet objectif était de 30 jours.",
+"tool_calls": []
+},
+"5308c9f23615c3fd54aad8784afdaa5ec7818a1f": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "application pour que les parents sachent où est l'autobus de l'école",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"53ce3f4176b7b1acf11bc13c327fde89097d5289": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "rappeler_preferences",
+"arguments": {
+"sujet": "indicateurs de synthèse mensuelle",
+"utilisateur": "sophie"
+}
+}
+}
+]
+},
+"573b30ce7be0201116f041d9495e7f2d17ac8b4b": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "données pour combattre les incendies en forêt",
+"utilisateur": "karim"
+}
+}
+}
+]
+},
+"574686f611499504fbb7958f30f09f3b507b294c": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "développeuse web junior de Drummondville qui a fait un site pour une cabane à sucre",
+"utilisateur": "karim"
+}
+}
+}
+]
+},
+"57f999f704fe386689c85a63f9260eb1f67bd7e3": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "seuil de points pour présenter un candidat à un client"
+}
+}
+}
+]
+},
+"58b8eccc181b7546263c753635ba0827c141b47e": {
+"content": "En tant qu'assistant de Julie Ouellet, je peux vous informer que l'utilisation d'une IA pour écarter un candidat n'est pas autorisée. Selon les règles officielles, un outil d'IA ne peut pas écarter un candidat ni attribuer une note. Toute décision concernant un candidat doit être prise par un recruteur. De plus, le seuil de présentation pour un candidat est fixé à 70 points sur la grille d'évaluation.",
+"tool_calls": []
+},
+"592a2f6f73821bcf01daa6c85422425b6a441c98": {
+"content": "Pour répondre à cette question, j'aurais besoin de savoir de quelle conférence vous parlez, car je n'ai pas accès à votre calendrier personnel ni à vos informations de présentation. Pourriez-vous me donner plus de contexte ?",
+"tool_calls": []
+},
+"5933b615e2b0d401f4507b2ccec29536f510389f": {
+"content": "Le candidat qui semble le plus pertinent est **Patrick Caron** (c018), car son projet mentionne l'ingestion de **données géospatiales** et de **données temps réel**, ce qui est très proche des besoins pour combattre les incendies en forêt. **Aïcha Diallo** (c042) est également intéressante pour son expérience avec les **capteurs IoT** et les **données hétérogènes**.",
+"tool_calls": []
+},
+"5a850599ea6277cbc1a72719a965150486ec2404": {
+"content": "Le candidat qui semble le plus pertinent est **Frédéric Plamondon** (c037), car il a une expérience en intelligence artificielle et apprentissage automatique dans le secteur de la santé, ce qui démontre une capacité à travailler avec des modèles prédictifs complexes. Bien que le contexte soit différent (santé vs. club de fitness), son expérience en modélisation IA est le point commun le plus fort.",
+"tool_calls": []
+},
+"5b55c4deb325278194bbbe22ca7755a100d8788d": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "Assurances Riveraine",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"5be83cbe789b6e871b6afe3b9d5c642f054d40bf": {
+"content": "Les honoraires standard du cabinet sont de **20 % du salaire annuel de base** du candidat embauché, et ces frais sont facturés à l'embauche. De plus, le cabinet offre une garantie de remplacement si la personne quitte ou est congédiée dans les **90 jours**.",
+"tool_calls": []
+},
+"5cb1be23dfbec21430f597db19a1b72eebe252ff": {
+"content": "Pour Assurances Riveraine, vous devez toujours mettre **Nathalie Côté**, la directrice TI, en copie. C'est une information que vous avez mentionnée lors de nos échanges précédents.",
+"tool_calls": []
+},
+"5cd1accc1462091c829d7b34f616393e65169abc": {
+"content": "Le seuil de présentation d'un candidat à un client est de **70 points** sur la grille d'évaluation des candidats. De plus, il y a une note éliminatoire : un candidat doit obtenir au moins **30 points** sur 50 en compétence technique, peu importe sa note totale.",
+"tool_calls": []
+},
+"5cfec00c4508acd209573b370681a5833469fb1c": {
+"content": "Le cabinet doit répondre à un candidat qui demande à consulter son dossier dans un délai de **30 jours**. De plus, si un candidat retire son consentement, son dossier doit être détruit dans les **10 jours ouvrables**.",
+"tool_calls": []
+},
+"5ed410fdefdce77143d2b1afa66d4f1183d1b9cb": {
+"content": "Selon nos échanges précédents, pour votre synthèse mensuelle, vous souhaitez inclure trois indicateurs : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie. De plus, vous préférez que ces synthèses soient présentées avec des graphiques en barres.",
+"tool_calls": []
+},
+"5f4a87f3e2d1e8bc129ff92fab84685bf92b2ca6": {
+"content": "Pour vous répondre précisément, j'aurais besoin de savoir de quel type de rapports d'avancement il s'agit et à qui vous devez les envoyer. Pourriez-vous me donner plus de contexte ?",
+"tool_calls": []
+},
+"5f4ca5d78dd990d163061e7330314e989d1f35eb": {
+"content": "Le Réseau Cliniques Santé-Nord accepte un télétravail limité à **2 jours par semaine**. Ces informations proviennent de la fiche client du réseau, qui est un réseau de 12 cliniques médicales privées.",
+"tool_calls": []
+},
+"6200318768d8dc02e848b837e9aa9aec004b3b2e": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "jours de télétravail Santé-Nord",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"623a3b31c56f609044c840cc76d93e3db4fb541e": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "joue de la cornemuse"
+}
+}
+}
+]
+},
+"62a4b3290175e9ae1c8b7ec75c2874abe27e77a5": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "format des résumés de candidats"
+}
+}
+}
+]
+},
+"6338dbb0bf77468c3355982cf526e2cc6ea5de13": {
+"content": "La garantie de remplacement pour Assurances Riveraine est de **120 jours**, conformément à l'Entente de volume 2026. Cependant, il est important de noter que la politique de recrutement standard du cabinet prévoit une garantie de remplacement de **90 jours** si la personne quitte ou est congédiée dans ce délai.",
+"tool_calls": []
+},
+"65822e9d855f436c6d0bf8862f47d8c5c76a565f": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "rappeler_preferences",
+"arguments": {
+"sujet": "indicateurs de synthèse mensuelle",
+"utilisateur": "sophie"
+}
+}
+}
+]
+},
+"677b6bdc2aca3f401af2b42e2c0be32132ff0066": {
+"content": "En tant qu'assistant de Julie Ouellet, je peux vous confirmer qu'un outil d'IA ne peut pas écarter un candidat. Selon la section \"Utilisation de l'IA\", il est stipulé qu'un outil d'IA ne peut pas attribuer de note ni écarter un candidat, et que toute décision doit être prise par un recruteur.",
+"tool_calls": []
+},
+"686c5635c9663e7df4046bd588d70a6e83dd201f": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "garantie de remplacement Assurances Riveraine"
+}
+}
+}
+]
+},
+"68d2eed294ff9f8d9b36ce1163b98e6f9fbf7729": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "joue de la cornemuse"
+}
+}
+}
+]
+},
+"68e8503ba772423bfd597b271a895dc85c96f958": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "rappeler_preferences",
+"arguments": {
+"sujet": "objectif de délai moyen de placement",
+"utilisateur": "sophie"
+}
+}
+}
+]
+},
+"691fee5cd8da85cedf293f937cc48c4459580a81": {
+"content": "Le candidat qui correspond à votre recherche est **Nicolas Vaillancourt** (identifiant **c044**), qui possède la certification **Microsoft AZ-204 Azure Developer**. Il est basé à Châteauguay et a 8 ans d'expérience.",
+"tool_calls": []
+},
+"69f3b097a6778c785e01a72d5b233d61e419abd8": {
+"content": "Selon la [[Grille d'évaluation des candidats]], un candidat est éliminé si sa note en compétence technique est inférieure à **30 points sur 50**, et ce, quel que soit son total.",
+"tool_calls": []
+},
+"6ad8b7667d1dd6ae2eb205fe8b51317826f88287": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "garantie de remplacement Assurances Riveraine",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"6c9d6aabe89d5d25b35898e72fa7f75cd252f568": {
+"content": "Pourriez-vous me donner plus de contexte ? Je n'ai pas accès à votre calendrier ou à vos informations de conférence. Si vous parlez de quelque chose lié à Recrutement Élite inc., veuillez me le préciser.",
+"tool_calls": []
+},
+"6dbfd54820f3470f76905889a56df2cf52bb7b2d": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "analyste en réponse aux incidents certifié GIAC GCIH"
+}
+}
+}
+]
+},
+"6ea9c1c9f3040a51779bc7253ad135612b3d0894": {
+"content": "Pour Manufacturier Boréal, l'exigence pratique principale à vérifier est la **maîtrise du français**, car l'anglais n'est pas exigé. Concernant la grille d'évaluation, le seuil pour présenter un candidat au client est de **70 points** sur 100.",
+"tool_calls": []
+},
+"6ed12d41b96b7ccf347ab07e0be848158fc8d6b4": {
+"content": "En consultant les préférences de Sophie, il apparaît que pour sa synthèse mensuelle, vous devez inclure trois indicateurs : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie. De plus, Sophie préfère que ces synthèses contiennent des graphiques en barres et qu'elle reçoive ce rapport le premier jour ouvrable de chaque mois.",
+"tool_calls": []
+},
+"74f96d7ad22fcf260d1b5c81e9b8e111b7407dcb": {
+"content": "Le candidat qui correspond à votre recherche est **François Lavoie** (identifiant : c007). Il est basé à Sherbrooke, possède 9 ans d'expérience et mentionne dans ses loisirs qu'il joue de la cornemuse.",
+"tool_calls": []
+},
+"77d31750a7375bf7d25bc8a7ac97fc07ef2f0ad1": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "développeuse web junior Drummondville site cabane à sucre"
+}
+}
+}
+]
+},
+"787775ab30a6c2703b580009240417501362e17d": {
+"content": "Pour savoir quels indicateurs vous souhaitez dans votre synthèse mensuelle, j'aurais besoin de savoir de quel sujet il s'agit, car je dois utiliser la fonction `rappeler_preferences` avec un `utilisateur` et un `sujet`. Pourriez-vous me préciser de quel sujet il s'agit ?",
+"tool_calls": []
+},
+"7b757bbf8d80fdc4c281f8e2baa25b36f75c118a": {
+"content": "Le candidat qui possède la certification **Certified Kubernetes Administrator** est **François Lavoie** (c007), qui est basé à Sherbrooke et a 9 ans d'expérience. Un autre candidat, **Olivier Dubois** (c023), possède une certification connexe, le **Certified Kubernetes Security Specialist (CKS)**.",
+"tool_calls": []
+},
+"7d98ed479f711baa2a95d69340546db225e702b8": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "CKS sécurité Kubernetes"
+}
+}
+},
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "nombre de références à vérifier"
+}
+}
+}
+]
+},
+"7f20b28546111008117bedcc1b133c55b319f8c9": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "rappeler_preferences",
+"arguments": {
+"sujet": "short-list",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"8386d61148528aab36f4cae83e83678c42ecc069": {
+"content": "En consultant les informations disponibles, il est indiqué que Karim envoie ses rapports d'avancement le vendredi. Plus précisément, une note datée du 2026-06-01 mentionne que Karim envoie ses rapports d'avancement le vendredi.",
+"tool_calls": []
+},
+"8499fed17f468d5306993b3ae845b165a3622ab1": {
+"content": "Bonjour ! J'ai effectué une recherche de candidats avec les mots-clés \"application suivi autobus scolaire\". Les profils suivants pourraient être pertinents :\n\n*   **Isabelle Côté** (Trois-Rivières, 6 ans d'expérience) : Elle a travaillé sur la refonte d'un module de gestion des accès en temps réel, ce qui montre une capacité à gérer des systèmes complexes.\n*   **Stéphane Cloutier** (Laval, 12 ans d'expérience) : Son expérience avec le suivi de parcours utilisateur et l'intégration de données biométriques suggère une bonne compréhension des systèmes de suivi en temps réel.\n*   **Hugo Lachance** (Rimouski, 3 ans d'expérience) : Il a développé un module de réservation en temps réel, ce qui est pertinent pour un système de suivi de localisation.\n\nJe vous recommande d'examiner les profils de Stéphane Cloutier ou Isabelle Côté en priorité en fonction de la complexité technique que vous attendez pour ce projet.",
+"tool_calls": []
+},
+"8928498cd0bbe18777646d5f3402f99c7c4d35de": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "date d'envoi rapports d'avancement"
+}
+}
+}
+]
+},
+"8b2f39b8bf5c167942de2febffc5512936dd7285": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "développeur certifié AZ-204",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"8c9d65862cc51b733b826da2176ce910af18557a": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "garantie de remplacement Assurances Riveraine"
+}
+}
+}
+]
+},
+"9118ae432c21f65fa09a2109c73465fdfe8b18ef": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "honoraires standard du cabinet"
+}
+}
+}
+]
+},
+"924089b6fae75e7c5651a6dca660a3f37b2d99ba": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "format des résumés de candidats"
+}
+}
+}
+]
+},
+"936ee10646232e7ea988e7fc3c9ddecaaa2ad175": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "vision par ordinateur pour identifier les poissons pêchés"
+}
+}
+}
+]
+},
+"95079a4180017445e6e03f6f3bced3bf8d5538f1": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "application suivi autobus scolaire"
+}
+}
+}
+]
+},
+"97535c215ed9fd4078fb58c095965cea11d158cb": {
+"content": "Je n'ai trouvé aucune information spécifique concernant la date d'envoi de vos rapports d'avancement dans les règles officielles du cabinet. Les règles que j'ai consultées portent sur la minimisation des données et le consentement.",
+"tool_calls": []
+},
+"978da3e7adaf8e2b15013e49aeb575803b1c531c": {
+"content": "Bonjour, j'ai trouvé quelques profils qui pourraient être pertinents pour un projet de *churn prediction* dans un club de fitness.\n\nJe vous recommande de regarder **Mohamed Benali** (c005) car il a de l'expérience avec des systèmes d'alerte prédictive basés sur des données comportementales, ce qui est très proche de la prédiction de désabonnement. **Frédéric Plamondon** (c037) est également intéressant avec son expérience en IA dans le secteur de la santé, ce qui montre une capacité à gérer des données sensibles et complexes.",
+"tool_calls": []
+},
+"98a07edff2846c88a652137b47018f72c385d5a6": {
+"content": "La garantie de remplacement pour le cabinet est de **90 jours** si la personne embauchée quitte ou est congédiée dans ce délai. Cependant, pour le client Assurances Riveraine, la garantie de remplacement est spécifiquement de **120 jours** en vertu de l'Entente de volume 2026.",
+"tool_calls": []
+},
+"98e3ede779e3760c0d13e7013e5b104af3af2912": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "vision par ordinateur identification poissons"
+}
+}
+}
+]
+},
+"9baddcecbb3c2555e710e9d16193bd18ad61fbfc": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "Manufacturier Boréal exigences"
+}
+}
+}
+]
+},
+"9d7ad9acd77ad89adc89df6e65ce79fdf083146e": {
+"content": "Je n'ai pas trouvé d'information spécifique dans les règles internes concernant le nombre de candidats à inclure dans les *short-lists*. Je vous suggère de consulter les fiches clients ou de demander à un collègue pour obtenir cette directive.",
+"tool_calls": []
+},
+"9e4e156fc14779684e2c43a66f7376e913b78097": {
+"content": "Bonjour ! J'ai trouvé un candidat qui correspond à votre recherche : **Nicolas Vaillancourt** (c044). Il est développeur web et possède la certification **Microsoft AZ-204 Azure Developer**.",
+"tool_calls": []
+},
+"9e7c02153eb53e49cce6a5775ce16291606222c8": {
+"content": "La garantie de remplacement pour Assurances Riveraine est de **120 jours**, conformément à l'Entente de volume 2026. Il est important de noter que la politique de recrutement standard du cabinet prévoit une garantie de remplacement de **90 jours** si la personne quitte ou est congédiée dans ce délai.",
+"tool_calls": []
+},
+"9f2854bad8287621c5a46e2722e8d14381604aae": {
+"content": "Bonjour, j'ai trouvé deux candidats qui pourraient correspondre à votre recherche de vision par ordinateur pour l'identification de poissons. Fatima El Amrani (c013) a un projet marqué sur un **Système de Surveillance Environnementale Aquatique** où elle a utilisé un CNN pour identifier et catégoriser des espèces de poissons. De plus, Lucie Hamel (c045) possède des compétences techniques en **Vision par Ordinateur** (YOLO, CNN) et Mohamed Benali (c005) a également mentionné la **Computer Vision** dans ses compétences.",
+"tool_calls": []
+},
+"9ff1868ae8ca086a180e94157b2bd1d00882624b": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "objectif de délai moyen de placement",
+"utilisateur": "sophie"
+}
+}
+}
+]
+},
+"a0d043657a9b0f1e8b2c91b7acb94d4c3658c123": {
+"content": "En tant qu'assistant de Sophie Gendreau, les informations trouvées indiquent que Sophie souhaite recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois. De plus, une préférence enregistrée du 5 mars 2026 stipule que cette synthèse doit contenir trois indicateurs : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.",
+"tool_calls": []
+},
+"a151e685e19780249179504228eb9dcd4b1e1015": {
+"content": "Le candidat qui correspond à votre recherche est **Nicolas Vaillancourt** (c044), qui est un développeur avec **8 ans** d'expérience et possède la certification **Microsoft AZ-204 Azure Developer**.",
+"tool_calls": []
+},
+"a173bd9817d3f9a3be0d5e387567256948ec7a54": {
+"content": "En consultant les règles internes, il n'est pas précisé qui doit être mis en copie pour Assurances Riveraine. Cependant, je vous rappelle que pour ce client, la **vérification des références** des antécédents judiciaires est obligatoire pour tous les postes.",
+"tool_calls": []
+},
+"a1b7a2045351907ad7236e84807e94b1a8718acd": {
+"content": "Pour savoir quels indicateurs vous souhaitez dans votre synthèse mensuelle, j'ai besoin de savoir si vous posez cette question à Sophie, à Julie ou à Karim. Pourriez-vous me préciser l'utilisateur ?",
+"tool_calls": []
+},
+"a27060970c8fa787f03a91ff961995bbe268584b": {
+"content": "Le Réseau Cliniques Santé-Nord accepte un télétravail limité à **2 jours par semaine**. Ces informations proviennent des règles officielles du cabinet.",
+"tool_calls": []
+},
+"a4054b8c3dd3f2bf6f3697f380fd51a1f213f6c6": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "développeuse web junior Drummondville site cabane à sucre"
+}
+}
+}
+]
+},
+"a6a4de8046bab3f7efd8f02227c7109d0f4ec916": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "objectif de délai moyen de placement"
+}
+}
+}
+]
+},
+"a75e3021ca0b72755eb7e99d629a2a6ac32f8555": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "candidat certifié CKS sécurité Kubernetes et nombre de références à vérifier",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"a8c022d7636af7564b68e68f7e67cb623bcc98d2": {
+"content": "Bonjour, d'après les informations disponibles, je ne trouve pas de candidat correspondant exactement à une développeuse web junior de Drummondville ayant fait un site pour une cabane à sucre. Cependant, je peux vous informer que **Émilie Simard** est une développeuse web de **Drummondville** avec **2 ans** d'expérience.",
+"tool_calls": []
+},
+"a8e0b64c855f278157917931149fd6881180a28b": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "exigences Manufacturier Boréal grille évaluation"
+}
+}
+}
+]
+},
+"a8f88b6c17ecf0a3d9d4c0823b39a789e46eef13": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "analyste en réponse aux incidents certifié GIAC GCIH"
+}
+}
+}
+]
+},
+"a934aa0688dfc0a8c202b6b219008633688b798c": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "rappeler_preferences",
+"arguments": {
+"sujet": "placement chez Boréal en mai",
+"utilisateur": "karim"
+}
+}
+}
+]
+},
+"aa70bfefd7cce8117bf4f74584f2696f08422402": {
+"content": "L'entrevue finale chez Manufacturier Boréal doit se dérouler sur place, à l'usine principale du client. Il est important de noter que le directeur de la production sera présent pour cette rencontre.",
+"tool_calls": []
+},
+"ac2b4672acbbd72d6634529c87678f9a0bd20482": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "délai moyen de placement et conservation des dossiers candidats"
+}
+}
+}
+]
+},
+"af341e8c1fe52b4b914617eaea635787cae415fb": {
+"content": "Selon vos préférences enregistrées, vous avez modifié la règle de sélection pour limiter les short-lists à **3 candidats** au maximum.",
+"tool_calls": []
+},
+"af7939496af0afb51a60ac6ddf9acc97ea9108cd": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "clients exigeant vérification antécédents judiciaires"
+}
+}
+}
+]
+},
+"afaf63354e6c5247289ba3f3b966a63fa765012a": {
+"content": "Je ne trouve pas de correspondance exacte avec les critères \"développeuse web junior de Drummondville qui a fait un site pour une cabane à sucre\" dans les résultats. Cependant, le candidat **Émilie Simard** est une développeuse web de **Drummondville** avec **2 ans** d'expérience, ce qui correspond au profil junior et à la ville.",
+"tool_calls": []
+},
+"b1444e5521595d0680fd5d33bb8d318535216cd1": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "Santé-Nord jours de télétravail"
+}
+}
+}
+]
+},
+"b17cfddaab03d613502eba88465760d6f3f7659b": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "refus candidat c042 Riveraine"
+}
+}
+}
+]
+},
+"b6fa69571dec829fe6f6bc772f84edc18b94176d": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "seuil de points présentation candidat client"
+}
+}
+}
+]
+},
+"b7ab0157d40321b5c70ba5aefbd86f3acc6e0027": {
+"content": "Je n'ai pas trouvé de correspondance directe avec \"données pour combattre les incendies en forêt\" dans les profils des candidats. Cependant, Patrick Caron (c018) a une expérience en **données géospatiales** et en **plateformes de données temps réel**, ce qui pourrait être pertinent pour ce type de projet.",
+"tool_calls": []
+},
+"b7d07c412f89599901d16aea1334987264034192": {
+"content": "Le candidat qui joue de la cornemuse est **François Lavoie** (c007). Il est spécialisé en DevOps et fiabilité des plateformes, réside à Sherbrooke et possède 9 ans d'expérience.",
+"tool_calls": []
+},
+"b8d8f3cd0ae64b681b81bfddbbde7691cb87fd2c": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "honoraires standard du cabinet"
+}
+}
+}
+]
+},
+"b91e9df83815c9b79b1f20553358353a385016a5": {
+"content": "Le dossier d'un candidat non retenu est conservé pendant **12 mois** après la fin du mandat, à condition que le candidat ait accepté cette durée dans son formulaire de consentement révisé par Marc-André Pelletier. Si le candidat refuse cette durée, la règle de conservation est de **6 mois**.",
+"tool_calls": []
+},
+"b965deb4e4a89778002141f2f22c28e6b2f32973": {
+"content": "Pour Assurances Riveraine, vous devez toujours mettre Nathalie Côté en copie, car elle est la directrice TI du client. De plus, il est rappelé que vous devez mettre en copie Nathalie Côté pour tous les dossiers concernant Assurances Riveraine.",
+"tool_calls": []
+},
+"bea7e8b718ec8654fe139c3eef18c10e2f0192db": {
+"content": "Je n'ai pas trouvé d'information spécifique concernant le format des résumés de candidats dans les règles officielles du cabinet. Je vous suggère de vérifier si Julie a des préférences personnelles à ce sujet en utilisant la fonction `rappeler_preferences`.",
+"tool_calls": []
+},
+"beeb0255cda91bd045525a4cde526d28c686b335": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "vision par ordinateur pour identifier les poissons pêchés",
+"utilisateur": "karim"
+}
+}
+}
+]
+},
+"c14ae01ac0a12e007fd83c1b373e0e8c46411075": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "délai réponse consultation dossier candidat"
+}
+}
+}
+]
+},
+"c160f85b4c74c77cc40a96aa41e78cf7c611f306": {
+"content": "En tant qu'assistant de Sophie Gendreau, je peux vous informer que l'objectif de délai moyen de placement est de **25 jours**, suite à une révision le 4 juin 2026. Concernant la conservation des dossiers, un candidat non retenu est conservé pendant **12 mois** s'il donne son consentement, ou **6 mois** s'il refuse.",
+"tool_calls": []
+},
+"c19fec355d0fef6c82d7d82a79233faba3f25e0b": {
+"content": "Je ne dispose pas d'informations sur les raisons spécifiques pour lesquelles Riveraine a refusé le candidat c042. Pour obtenir cette information, je vous suggère de consulter les dossiers clients ou les notes de suivi de ce dossier.",
+"tool_calls": []
+},
+"c2c2ca2209bfe0a35350ac9842fd0ec65c76c475": {
+"content": "Les honoraires standard du cabinet sont de **20 % du salaire annuel de base** du candidat embauché, et ces frais sont facturés à l'embauche. De plus, le cabinet offre une garantie de remplacement si la personne quitte ou est congédiée dans les **90 jours**.",
+"tool_calls": []
+},
+"c2e4c4ee9c58c5879f66dd18c86d32c91692bdb6": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "short-lists"
+}
+}
+}
+]
+},
+"c4961cfee517cd1f61e81740434ff80c5479c9cc": {
+"content": "Selon ma mémoire, vous avez placé **Samuel Gagnon** chez Manufacturier Boréal le **20 mai 2026**, et il a été placé comme spécialiste DevOps.",
+"tool_calls": []
+},
+"c5376d42dd55b102619aaeb7ae4ba812a79147c1": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "Riveraine refus candidat c042"
+}
+}
+}
+]
+},
+"c5cc693712574c7855677d6a7e8be53116817744": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "exigence pratique Manufacturier Boréal",
+"utilisateur": "karim"
+}
+}
+}
+]
+},
+"c9067083d7f88da30df6e8996595d932db29c0e2": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "Santé-Nord politique télétravail"
+}
+}
+}
+]
+},
+"ca06c566af0f97ce74a9372430d48ece4514a6f6": {
+"content": "Je ne dispose pas des informations concernant les honoraires standard du cabinet. Pourriez-vous me préciser si vous souhaitez que je vérifie quelque chose en particulier en utilisant les outils disponibles ?",
+"tool_calls": []
+},
+"ca6804502faeadcc6d7b6ea74cc2c3ba6f403cd8": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "note de compétence technique éliminatoire",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"cbe2a1bfe70928c3fae79b78a05ac4725dfdd4a1": {
+"content": "Bonjour Sophie, selon les règles internes, le dossier d'un candidat non retenu est conservé **12 mois** après la fin du mandat, si le candidat y consent. Concernant votre objectif de délai moyen de placement, cette information n'est pas disponible dans les règles consultées.",
+"tool_calls": []
+},
+"cd4acc11f8623ea69f1e0f4f6758990e42a8447d": {
+"content": "Bonjour ! J'ai trouvé un candidat certifié CKS en sécurité Kubernetes : **Olivier Dubois** (c023) est listé avec cette certification.\n\nConcernant les références, la politique de recrutement exige de vérifier **deux références** au minimum avant de présenter un candidat à un client.",
+"tool_calls": []
+},
+"cda6d4015402a20e9a4ddf04b80e9be3d559f38d": {
+"content": "Bonjour. Pour trouver un candidat adapté à une application de suivi d'autobus scolaire, je vous recommande de regarder les profils de **Stéphane Cloutier** (c016) et **Josée Lacroix** (c040). Stéphane a une expérience pertinente avec le suivi de parcours utilisateur et l'intégration de données de dispositifs tiers, tandis que Josée Lacroix a une expérience significative dans la modernisation de plateformes mobiles grand public pour un secteur de transport.",
+"tool_calls": []
+},
+"ce656a7537b691c4adc1dc9f8b30396dcf711549": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "certification Certified Kubernetes Administrator",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"d00d777610b6ba90ba51ff8cdeb36893de13bd35": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "date et lieu de ma conférence",
+"utilisateur": "sophie"
+}
+}
+}
+]
+},
+"d1d8ab138d821dd45eb097a8920de16a28af794e": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "raison de refus du candidat c042 par Riveraine",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"d24a08c262d612d39cb4006037acff2b13b22d07": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "garantie de remplacement Assurances Riveraine et nombre de candidats pour short-list",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"d3830396238ccf17364acc7d03c6ed77f8a1d3ea": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "conservation des dossiers candidats"
+}
+}
+}
+]
+},
+"d42b2253ada9e46da903082507714e0c1ec99ea6": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "rappeler_preferences",
+"arguments": {
+"sujet": "Assurances Riveraine",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"d4bd6bf2bad647745093d9aaff03695e5e4c93b1": {
+"content": "Selon les règles officielles, Manufacturier Boréal exige que l'entrevue finale ait lieu sur place, à l'usine principale, avec le directeur de la production. De plus, la maîtrise du français est obligatoire, et l'anglais n'est pas exigé.",
+"tool_calls": []
+},
+"d614ca1d97ccb927e6a5ca26d58af1fc472e6142": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "CKS sécurité Kubernetes"
+}
+}
+},
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "nombre de références à vérifier"
+}
+}
+}
+]
+},
+"d8d31011452615c093c5f519a784470ba9c80ffc": {
+"content": "Je ne trouve aucune information sur un candidat que vous auriez placé chez Boréal en mai. Cependant, je peux vous informer que le **20 mai 2026**, vous avez placé **Samuel Gagnon** chez **Manufacturier Boréal** en tant que spécialiste DevOps.",
+"tool_calls": []
+},
+"da212bfa8d89d092bb64912a738503d2f9da6def": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "critères d'élimination compétence technique"
+}
+}
+}
+]
+},
+"daeeee902ebc9010993d2515f295de89b8ab8150": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "Certified Kubernetes Administrator"
+}
+}
+}
+]
+},
+"db27bfde9b7bdcf127c8f5e3bd0cffb5e804d49c": {
+"content": "Notre wiki ne contient pas d'information spécifique concernant un objectif de délai moyen de placement. Les règles disponibles traitent plutôt des droits des candidats, des entrevues techniques (qui durent 60 minutes), et de la conservation des dossiers.",
+"tool_calls": []
+},
+"dcbdaf8789816606d0d1a09d0ebd9d68e3cb7e91": {
+"content": "Selon les informations trouvées, vous présenterez votre conférence à **Montréal** le **18 septembre** sur le thème du recrutement en TI. De plus, il est noté que vous souhaitez un rappel à la fin du mois d'août concernant cette conférence.",
+"tool_calls": []
+},
+"de65ed0bc1f43368dee68a396395aed5830199e1": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "spécialiste DevOps Lévis Red Hat"
+}
+}
+}
+]
+},
+"e0c889119505e1c2c14c8b8c01200c0d238b3da5": {
+"content": "Je vous rappelle que vous avez placé **Samuel Gagnon** chez Manufacturier Boréal le **20 mai 2026** en tant que spécialiste DevOps. Je n'ai pas d'information sur sa date de début de contrat.",
+"tool_calls": []
+},
+"e0f8e6dd6a13cbfa2a153a9321683aec193abaf9": {
+"content": "Le candidat qui correspond à votre recherche est **François Lavoie** (identifiant : c007), qui est un expert en DevOps et fiabilité des plateformes basé à Sherbrooke avec 9 ans d'expérience. Son profil mentionne explicitement qu'il joue de la cornemuse dans ses loisirs.",
+"tool_calls": []
+},
+"e233f95956cbf10f0ab84bf258a2942f1bfd0ec2": {
+"content": "Selon la **Grille d'évaluation des candidats**, un candidat est éliminé si sa note en compétence technique est **inférieure à 30 points sur 50**, et ce, peu importe son total.",
+"tool_calls": []
+},
+"e2995ff6fbd81c101ec8512501355656cb1ac253": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "délai de réponse consultation dossier candidat",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"e2c826f7b2d9b127790bb267eacb76f8d3aaeaf6": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "conservation des dossiers candidats non retenus"
+}
+}
+}
+]
+},
+"e3d362a2d1835fd2af225e81f8c9418c88a21559": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "candidat qui joue de la cornemuse",
+"utilisateur": "karim"
+}
+}
+}
+]
+},
+"e47bd23ec1cd6df72585dee95f601468bd280c94": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "date d'envoi des rapports d'avancement"
+}
+}
+}
+]
+},
+"e49f3436361fd01514a41e59f472358c3e9f7b75": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "rappeler_preferences",
+"arguments": {
+"sujet": "objectif de délai moyen de placement et conservation des dossiers",
+"utilisateur": "sophie"
+}
+}
+}
+]
+},
+"e54609b788b4393f71618badcdec308b914632db": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "développeur certifié AZ-204"
+}
+}
+}
+]
+},
+"e5ea27e5b93f0aaa0ffcd1d6da7755709c334284": {
+"content": "Je vais utiliser mes outils pour chercher l'information concernant la présentation de votre conférence. Cependant, les outils disponibles sont conçus pour rechercher des candidats, consulter les règles du cabinet ou rappeler les préférences personnelles de Sophie Gendreau. Aucun outil ne permet de consulter un calendrier ou des informations de présentation externes.\n\nPar conséquent, je ne peux pas trouver où et quand vous présentez votre conférence avec les outils à ma disposition.",
+"tool_calls": []
+},
+"e64e5e82a26217ece75333d7bfb1c3099c49ecde": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "garantie de remplacement Assurances Riveraine"
+}
+}
+},
+{
+"function": {
+"name": "rappeler_preferences",
+"arguments": {
+"sujet": "short-list",
+"utilisateur": "julie"
+}
+}
+}
+]
+},
+"e7a01ab9e4c7266266760962c08bc5f6e2726783": {
+"content": "Je n'ai trouvé aucune information dans les règles officielles concernant le motif du refus du candidat c042 par Riveraine. Je vous suggère de vérifier les notes de dossier ou de contacter directement le client pour obtenir cette précision.",
+"tool_calls": []
+},
+"eae8c2bf7751ec0c51cfe1d437362e80f3c93649": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_candidats",
+"arguments": {
+"requete": "données pour combattre les incendies en forêt"
+}
+}
+}
+]
+},
+"eb256b99f882db0cc0d9cb6c365ce8254483296b": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher_partout",
+"arguments": {
+"requete": "objectif de délai moyen de placement et conservation dossier candidat non retenu",
+"utilisateur": "sophie"
+}
+}
+}
+]
+},
+"eec6fe58876b5260f0495b8d7bafe1b926f8bf72": {
+"content": "Selon les informations disponibles, il n'y a pas d'exigence pratique spécifique mentionnée pour les candidats concernant Manufacturier Boréal, à l'exception de l'entrevue finale qui doit avoir lieu sur place à l'usine principale avec le directeur de la production. Cependant, il est important de noter que Karim a une exigence ajoutée : les candidats doivent avoir une voiture car l'usine n'est pas desservie par le transport en commun.",
+"tool_calls": []
+},
+"f1d89b730ebec2abd2df2d7f4fa2805cb927c004": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "exigence pratique Manufacturier Boréal et seuil grille évaluation"
+}
+}
+}
+]
+},
+"f30e392b2719285a4eba34619fc122d717b9f799": {
+"content": "En tant qu'assistant de Julie Ouellet, je peux vous informer que vous ne devriez pas dépasser **3 candidats** dans vos short-lists. Cette règle a été mise en place le **4 mai 2026**, car Julie a constaté que les clients trouvent qu'ils ont trop de choix avec 5 candidats.",
+"tool_calls": []
+},
+"f36ec8376ae2cd932c5f8139da7f9b840089c911": {
+"content": "Le seuil de points pour présenter un candidat à un client est de **70 points**, selon la [[Grille d'évaluation des candidats]]. De plus, il y a une note éliminatoire : un candidat doit obtenir au moins **30 points** sur 50 en compétence technique.",
+"tool_calls": []
+},
+"f745c7a7160ac22a3e26b5175503908772604665": {
+"content": "Selon la [[Grille d'évaluation des candidats]], un candidat est éliminé si sa note en compétence technique est **inférieure à 30 points sur 50**, et ce, peu importe son total. De plus, un candidat totalisant moins de **70 points** ne sera pas présenté au client.",
+"tool_calls": []
+},
+"f7464aee833752c96b89503e7485f0c8526b8d55": {
+"content": "Bonjour Julie, en recherchant des profils pertinents pour une application de suivi d'autobus scolaire, je n'ai pas trouvé de correspondance directe dans les données disponibles. Cependant, les profils de **Josée Lacroix** (c040) et **Nathalie Lapointe** (c024) ont une expérience pertinente dans les domaines de la mobilité et des systèmes de localisation/gestion d'infrastructures.",
+"tool_calls": []
+},
+"f898437e4122888c04b05dfba01e05c9535baf58": {
+"content": "Pour Manufacturier Boréal, l'exigence pratique principale à vérifier est la **maîtrise du français**, car l'anglais n'est pas exigé. Concernant la grille d'évaluation, le seuil pour présenter un candidat au client est de **70 points** sur 100.",
+"tool_calls": []
+},
+"fb0d220135ba7472012ad349b8e2523328b731c8": {
+"content": "Bonjour, selon les préférences de Julie, vous devez formater les résumés de candidats en utilisant des puces et vous assurer qu'ils ne dépassent pas une page. De plus, il est important de noter que vous ne devez pas inclure plus de 3 candidats dans une *short-list*.",
+"tool_calls": []
+},
+"fcf48292a00d5fffe17fb98c25ee79d0579ded7f": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "consulter_regles",
+"arguments": {
+"requete": "Assurances Riveraine"
+}
+}
+}
+]
+},
+"fdbab7b4bcf42d2f6fcce2bc468f1241ff375cad": {
+"content": "Bonjour, j'ai trouvé un candidat qui semble très pertinent pour votre besoin. **Fatima El Amrani** (candidat c013) a un projet marqué intitulé **\"Système de Surveillance Environnementale Aquatique\"** où elle a entraîné un réseau de neurones convolutifs (CNN) pour identifier et catégoriser automatiquement différentes espèces de poissons. De plus, **Lucie Hamel** (candidat c045) possède une expertise en **Vision par Ordinateur** avec des outils comme YOLO et CNN, ce qui pourrait également être très utile.",
+"tool_calls": []
+},
+"fdc7b5cbe0589ff985508d674b9d5cc35ba1aa35": {
+"content": "Le candidat qui possède la certification **Certified Kubernetes Administrator (CKA)** est **François Lavoie** (c007), qui est basé à Sherbrooke et a 9 ans d'expérience.",
+"tool_calls": []
+}
+}

@@ -1,0 +1,237 @@
+{
+ "julie": {
+  "faits": [
+   {
+    "texte": "Julie a modifié la règle de sélection pour limiter les short-lists à 3 candidats au maximum.",
+    "date": "2026-05-04",
+    "historique": [
+     [
+      "2026-03-02",
+      "Julie ne met jamais plus de 5 candidats dans une short-list."
+     ]
+    ]
+   },
+   {
+    "texte": "Julie préfère que les résumés de candidats soient faits en puces.",
+    "date": "2026-03-02",
+    "historique": []
+   },
+   {
+    "texte": "Julie souhaite que les résumés de candidats ne dépassent pas une page.",
+    "date": "2026-03-02",
+    "historique": []
+   },
+   {
+    "texte": "Julie travaille avec des clients qui ne lisent pas plus d'une page.",
+    "date": "2026-03-02",
+    "historique": []
+   },
+   {
+    "texte": "Julie doit toujours mettre Nathalie Côté en copie pour Assurances Riveraine.",
+    "date": "2026-03-09",
+    "historique": []
+   },
+   {
+    "texte": "Nathalie Côté est la directrice TI d'Assurances Riveraine.",
+    "date": "2026-03-09",
+    "historique": []
+   },
+   {
+    "texte": "Julie doit envoyer ses rapports hebdomadaires le lundi avant 9 h.",
+    "date": "2026-03-23",
+    "historique": []
+   },
+   {
+    "texte": "Julie souhaite que son assistant prépare un brouillon le dimanche soir.",
+    "date": "2026-03-23",
+    "historique": []
+   },
+   {
+    "texte": "Julie est informée du refus du candidat c042 par Riveraine.",
+    "date": "2026-04-14",
+    "historique": []
+   },
+   {
+    "texte": "Julie exige que l'expérience en données de réclamations soit vérifiée pour les prochains candidats proposés par Riveraine.",
+    "date": "2026-04-14",
+    "historique": []
+   },
+   {
+    "texte": "Julie a constaté que ses clients trouvent qu'ils ont trop de choix avec 5 candidats.",
+    "date": "2026-05-04",
+    "historique": []
+   },
+   {
+    "texte": "Julie sera en vacances du 6 au 17 juillet.",
+    "date": "2026-05-25",
+    "historique": []
+   },
+   {
+    "texte": "Karim s'occupera de Riveraine pendant l'absence de Julie, du 6 au 17 juillet.",
+    "date": "2026-05-25",
+    "historique": []
+   },
+   {
+    "texte": "Julie privilégie les candidats ayant déjà travaillé dans le milieu de la santé pour Santé-Nord.",
+    "date": "2026-06-08",
+    "historique": []
+   }
+  ],
+  "operations": {
+   "AJOUTER": 14,
+   "REMPLACER": 1,
+   "IGNORER": 0
+  }
+ },
+ "karim": {
+  "faits": [
+   {
+    "texte": "Karim a une short-list de 4 candidats.",
+    "date": "2026-03-03",
+    "historique": []
+   },
+   {
+    "texte": "Karim a demandé un rappel des étapes d'un mandat.",
+    "date": "2026-03-03",
+    "historique": []
+   },
+   {
+    "texte": "Karim envoie ses rapports d'avancement le vendredi.",
+    "date": "2026-06-01",
+    "historique": [
+     [
+      "2026-03-17",
+      "Karim fait ses rapports d'avancement le vendredi après-midi."
+     ],
+     [
+      "2026-06-01",
+      "Karim change son horaire de rapports d'avancement."
+     ],
+     [
+      "2026-06-01",
+      "Karim envoie ses rapports d'avancement le jeudi en fin de journée."
+     ]
+    ]
+   },
+   {
+    "texte": "Karim a une entrevue à 14 h le 2026-03-17.",
+    "date": "2026-03-17",
+    "historique": []
+   },
+   {
+    "texte": "Karim a une exigence pour Manufacturier Boréal : les candidats doivent avoir une voiture car l'usine n'est pas desservie par le transport en commun.",
+    "date": "2026-03-31",
+    "historique": []
+   },
+   {
+    "texte": "Karim a un contact chez Manufacturier Boréal : Luc Bergeron, le directeur de la production.",
+    "date": "2026-03-31",
+    "historique": []
+   },
+   {
+    "texte": "Karim ne présente jamais un candidat qui n'a pas d'expérience en production.",
+    "date": "2026-04-21",
+    "historique": []
+   },
+   {
+    "texte": "Karim considère que l'expérience en laboratoire ne compte pas.",
+    "date": "2026-04-21",
+    "historique": []
+   },
+   {
+    "texte": "Karim a placé Samuel Gagnon chez Manufacturier Boréal comme spécialiste DevOps.",
+    "date": "2026-05-20",
+    "historique": []
+   },
+   {
+    "texte": "Karim doit appeler Samuel Gagnon après 30 jours en poste.",
+    "date": "2026-05-20",
+    "historique": []
+   },
+   {
+    "texte": "Karim préfère être appelé plutôt que d'être écrit pour les urgences.",
+    "date": "2026-06-15",
+    "historique": []
+   },
+   {
+    "texte": "Karim ne consulte pas ses courriels lorsqu'il est en entrevue.",
+    "date": "2026-06-15",
+    "historique": []
+   }
+  ],
+  "operations": {
+   "AJOUTER": 12,
+   "REMPLACER": 3,
+   "IGNORER": 0
+  }
+ },
+ "sophie": {
+  "faits": [
+   {
+    "texte": "Sophie souhaite recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.",
+    "date": "2026-03-05",
+    "historique": []
+   },
+   {
+    "texte": "Cette synthèse doit contenir trois indicateurs : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.",
+    "date": "2026-03-05",
+    "historique": []
+   },
+   {
+    "texte": "Sophie ne veut être mise en copie que des escalades.",
+    "date": "2026-03-26",
+    "historique": [
+     [
+      "2026-03-26",
+      "Sophie ne veut pas être mise en copie des échanges courants avec les clients."
+     ]
+    ]
+   },
+   {
+    "texte": "Sophie resserre l'objectif à 25 jours de délai moyen de placement au lieu de 30.",
+    "date": "2026-06-04",
+    "historique": [
+     [
+      "2026-04-09",
+      "Sophie a un objectif pour cette année : un délai moyen de placement de 30 jours."
+     ]
+    ]
+   },
+   {
+    "texte": "Sophie préfère les graphiques en barres dans ses synthèses.",
+    "date": "2026-05-14",
+    "historique": []
+   },
+   {
+    "texte": "Sophie n'utilise jamais de graphiques en tarte dans ses synthèses.",
+    "date": "2026-05-14",
+    "historique": []
+   },
+   {
+    "texte": "Sophie a dépassé les attentes ce printemps.",
+    "date": "2026-06-04",
+    "historique": []
+   },
+   {
+    "texte": "Sophie présente une conférence à Montréal le 18 septembre sur le recrutement en TI.",
+    "date": "2026-06-11",
+    "historique": []
+   },
+   {
+    "texte": "Sophie souhaite un rappel à la fin août concernant cette conférence.",
+    "date": "2026-06-11",
+    "historique": []
+   },
+   {
+    "texte": "Sophie voulait vérifier que tout roulait le 2026-06-22.",
+    "date": "2026-06-22",
+    "historique": []
+   }
+  ],
+  "operations": {
+   "AJOUTER": 10,
+   "REMPLACER": 2,
+   "IGNORER": 0
+  }
+ }
+}

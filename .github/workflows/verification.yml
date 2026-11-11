@@ -1,0 +1,48 @@
+name: Vérification
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  cache:
+    name: Qdrant local et agent rejoués à partir du cache
+    runs-on: ubuntu-latest
+    env:
+      CONNAISSANCES_MODE: cache
+      QDRANT_CHEMIN: ':memory:'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+      - name: Comparer Qdrant (mode local) à la recherche exacte, sur les 60 questions de CV
+        run: python -m connaissances.verifier_qdrant --verifier
+      - name: Rejouer l'agent sur les 34 questions, avec les deux interfaces, à travers le serveur MCP
+        run: python -m connaissances.evaluer_agent --verifier
+
+  serveur-qdrant:
+    name: Même vérification avec un vrai serveur Qdrant
+    runs-on: ubuntu-latest
+    services:
+      qdrant:
+        image: qdrant/qdrant:v1.20.0
+        ports:
+          - 6333:6333
+    env:
+      CONNAISSANCES_MODE: cache
+      QDRANT_URL: http://localhost:6333
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+      - name: Attendre que Qdrant réponde
+        run: |
+          for i in $(seq 1 30); do curl -sf http://localhost:6333/readyz && break; sleep 2; done
+      - name: Indexer les CV dans le serveur et comparer à la recherche exacte
+        run: python -m connaissances.verifier_qdrant --verifier

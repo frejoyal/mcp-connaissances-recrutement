@@ -1,0 +1,9 @@
+# Un serveur Qdrant persistant, pour la production. Ensuite : QDRANT_URL=http://localhost:6333
+services:
+  qdrant:
+    image: qdrant/qdrant:v1.20.0
+    ports:
+      - "6333:6333"
+    volumes:
+      - ./index/qdrant-serveur:/qdrant/storage
+    restart: unless-stopped
