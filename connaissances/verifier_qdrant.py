@@ -6,7 +6,8 @@ Usage :
 
 Trois contrôles :
 1. Qdrant contre la recherche exacte : pour chaque question, les 10 sections les plus proches selon Qdrant sont-elles
-   les mêmes, dans le même ordre, que celles d'un produit scalaire numpy sur les 442 sections ?
+   les mêmes, dans le même ordre, que celles d'un produit scalaire numpy sur les 442 sections ? Deux sections à égalité
+   de score sont départagées par leur numéro des deux côtés : le mode local et le serveur ne les départagent pas pareil.
 2. L'outil hybride (100 sections tirées de Qdrant, plus BM25) contre l'hybride calculé sur toutes les sections :
    même premier candidat, mêmes cinq premiers ?
 3. La qualité de l'outil : bon candidat en premier, ou dans les trois premiers, sur les 45 questions qui ont une réponse.
@@ -43,7 +44,8 @@ def verifier(source):
     memes_10, meme_ordre, meme_premier, memes_cinq = 0, 0, 0, 0
     repondables, premier, trois = 0, 0, 0
     for q in questions:
-        qdrant = [i for i, _ in source.vecteurs_qdrant(q['question'], 10)]
+        # Les égalités de scores sont départagées par le numéro de section, comme dans la recherche exacte.
+        qdrant = [i for i, _ in sorted(source.vecteurs_qdrant(q['question'], 10), key=lambda x: (-x[1], x[0]))]
         exact = scores_exacts(source, q['question'], 10)
         memes_10 += set(qdrant) == set(exact)
         meme_ordre += qdrant == exact

@@ -45,7 +45,7 @@ flowchart LR
 | Contrôle | Résultat |
 |---|--:|
 | Qdrant trouve les 10 mêmes sections que la recherche exacte | 60 sur 60 |
-| … dans le même ordre | 59 sur 60 (une égalité de scores) |
+| … dans le même ordre (égalités de scores départagées par le numéro de section) | 60 sur 60 |
 | L'outil donne le même premier candidat que l'hybride calculé sur toutes les sections | 60 sur 60 |
 | … et les cinq mêmes candidats | 56 sur 60 (l'outil ne prend que 100 sections de Qdrant) |
 | Bon candidat en premier | 31 sur 45 (69 %, comme le banc RAG) |
